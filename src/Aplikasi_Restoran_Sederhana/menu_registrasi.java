@@ -12,10 +12,13 @@ import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
 
 
+
 /**
  *
  * @author Pradita Arif
  */
+
+//hahahahahhah
 public class menu_registrasi extends javax.swing.JFrame {
     private DefaultTableModel model = null;
     private PreparedStatementWrapper stat;
